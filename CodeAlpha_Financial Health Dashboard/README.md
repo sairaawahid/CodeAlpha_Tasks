@@ -10,7 +10,7 @@ To develop an interactive dashboard that analyzes an organization's financial he
 
 ## Dataset
 
-Dataset used: Financial Sheets Dataset from Kaggle.
+Dataset used: [Financial Sheets Dataset](https://www.kaggle.com/datasets/pacificrm/financial-sheets).
 
 The dataset contains financial information such as:
 - Profit and loss data
