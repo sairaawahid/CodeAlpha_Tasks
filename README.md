@@ -7,7 +7,7 @@
 ![CodeAlpha](https://img.shields.io/badge/CodeAlpha-Internship-6A5ACD?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
-This repository contains Power BI dashboard projects completed as part of the **CodeAlpha Internship 2026**. The projects focus on business intelligence, data visualization, KPI tracking, forecasting, and interactive dashboard development using publicly available datasets.
+This repository contains **Power BI dashboard projects** completed as part of the **CodeAlpha Internship 2026**. The projects focus on business intelligence, data visualization, KPI tracking, forecasting, and interactive dashboard development using publicly available datasets.
 
 ## 📌 Projects Included
 
